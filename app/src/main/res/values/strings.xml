@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlaygroundProj</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDr3a8AoxcesmGQXqnvz1SjXY2lU8ezgVM</string>
+    <string name="location_search_bar_hint">Enter location to search</string>
+    <string name="govt_api_key">https://api.data.gov.sg/v1/transport/carpark-availability</string>
+
+</resources>
